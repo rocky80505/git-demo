@@ -1,0 +1,1 @@
+print"thi is demo by rakesh"
